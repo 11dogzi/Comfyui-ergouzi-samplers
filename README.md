@@ -3,7 +3,7 @@
 Hello! I am Er Gouzi (2) 🐕）！ Only partial redrawing sampler and variant seed sampler are here!    
 
 如果你没有代码基础，或者安装节点时不想敲pip可以使用我制作的环境安装器    
-[二狗子环境编辑安装器]([https://space.bilibili.com/19723588?spm_id_from=333.1007.0.0](https://github.com/11dogzi/Comfyuinodes-HJGL))    
+[二狗子环境编辑安装器]([https://space.bilibili.com/19723588?spm_id_from=333.1007.0.0](https://github.com/11dogzi/Comfyuinodes-HJGL)   
 
 ## 局部重绘采样器    
 Local redraw sampler    
