@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-ergouzi-samplers"
+description = "Partial redraw sampler and variant seed sampler"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["torch", "numpy", "colorama", "pillow"]
+
+[project.urls]
+Repository = "https://github.com/11dogzi/Comfyui-ergouzi-samplers"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-ergouzi-samplers"
+Icon = ""
