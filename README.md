@@ -1,9 +1,8 @@
-![灵仙儿和二狗子](explain/LOGO2.png "LOGO2")    
-哈喽！我是二狗子（2🐕）！[分层控制的辅助项目](https://github.com/cubiq/ComfyUI_IPAdapter_plus)     
+哈喽！我是二狗子（2🐕）！仅局部重绘采样器与变异种子采样器来啦！     
 Hello! I am Er Gouzi (2) 🐕）！ Only partial redrawing sampler and variant seed sampler are here!    
 
 如果你没有代码基础，不会安装依赖或者安装节点时不想敲pip可以使用我制作的环境安装器    
-[二狗环境编辑安装器][二狗环境便捷安装器](https://github.com/11dogzi/Comfyuinodes-HJGL)   
+[二狗环境编辑安装器]([二狗环境便捷安装器](https://github.com/11dogzi/Comfyuinodes-HJGL)  
 
 ## 局部重绘采样器    
 Local redraw sampler    
